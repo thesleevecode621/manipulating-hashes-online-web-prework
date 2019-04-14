@@ -1,3 +1,6 @@
+
+
+def first
 contacts = {
   "Jon Snow" => {
     name: "Jon",
