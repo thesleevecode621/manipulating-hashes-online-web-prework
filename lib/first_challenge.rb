@@ -18,11 +18,3 @@ contacts.each do |person, data|
   contacts
   
 end
-  #your code here
-
-
-  #remember to return your newly altered contacts hash!
-  contacts
-  
-end
-
